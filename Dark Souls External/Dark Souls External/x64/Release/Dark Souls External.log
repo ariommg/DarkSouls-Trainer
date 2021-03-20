@@ -1,0 +1,8 @@
+﻿  Dark Souls External.cpp
+  memory.cpp
+  process.cpp
+c:\users\ario_\source\repos\dark souls external\dark souls external\process.cpp(36): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  All 76 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dark Souls External.vcxproj -> C:\Users\ario_\source\repos\Dark Souls External\x64\Release\Dark Souls External.exe
